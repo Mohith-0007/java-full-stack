@@ -1,0 +1,22 @@
+30-09-2026
+----------
+1. Write and come 15 browser names and their respective Javascript engine names?
+        ex: chrome->v8, opera->chakra
+    1. Google Chrome -> v8
+    2. Mozilla Firefox -> SpiderMonkey
+    3. Apple Safari -> JavaScriptCore(Nitro)
+    4. Microsoft Edge -> V8 
+    5. Opera -> V8 
+    6. Brave -> V8 
+    7. Vivaldi -> V8 
+    8. Tor Browser -> SpiderMonkey 
+    9. Samsung Internet -> V8 
+    10. DuckDuckGo Browser -> WebView2(V8) on Windows / JavaScriptCore on Mac & iOS
+    11. Arc Browser -> V8 
+    12. Orion -> JavaScriptCore 
+    13. Waterfox -> SpiderMonkey
+    14. Pale Moon -> Unified XUL Platform JSE (Goanna)
+    15. GNOME Web(Epiphany) -> JavaScriptCore
+
+2. Depricated keywords in Javascript
+    

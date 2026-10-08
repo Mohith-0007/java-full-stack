@@ -1,0 +1,68 @@
+Web Applications :
+------------------
+   -> Any Applications that will be run on browser is called web applications.
+   Types:
+   -------
+   1.static web Applications:
+   -------------------------
+   ->Any web applications doesnt have functionalities.
+   ->To build static web applications we will only HTML & CSS.
+
+   2.dynamic web applications:
+   -----------------------------
+   ->Any web applications having functionalities is called dynamic web applications.
+   ->To build dynamic web applications HTML, CSS and JS required.
+
+HTML:
+-----
+    ->developed in 1991.
+    ->hypertext markup language.
+
+Html boiler plate:
+------------------
+  tags:
+  -----
+       ->Tags are the predefined words which are enclosed with both opening and closing angular brackets.
+       ex: <h1> ,<p> ,<div>
+        
+       types:
+       -------
+       1.paired tags:
+       --------------
+          ->Any tags having both opening and closing tags is called as a paired tags.
+          Ex: 1.All heading tags. <h1>,  <h2>, <h3>, <h4>, <h5>, <h6>.
+        2.formatting tags.
+        -----------------
+           1. <b></b>          --> makes the text bold
+           2.<strong></strong>  -->Strong/Important text – usually displayed in bold
+           3.<i></i>           -->Italic – makes the text italic
+           4.<em></em>        -->Emphasized text – usually displayed in italic
+           5.<u></u>          -->underline 
+           6.<mark></mark>    -->light the content
+           7.<sub></sub>      -->subscript
+           8.<sup></sup>      -->super script
+           9.<marquee></marquee> -->scroll the content
+           10.<center></center> -->align content to center
+      
+      25-9-26
+      --------
+        3.other tags
+        -----------
+        <div></div>, <p></p>, <span></span>, All list tags.
+
+        4.unpaired tags/self closing tags:
+        ---------------------------------
+            ->Any tag that having only opening tags.
+            ->eg: <br>, <img>, <hr>, <col>, <input>, <mets>.
+        5.Img tags
+        ---------
+           --<img> is the one of the media tag used to display the images.
+           -->img attributes:
+           ------------------
+           1.src(source)
+           2.width
+           3.height
+           4.style
+           5.id
+           6.applications
+           7.class

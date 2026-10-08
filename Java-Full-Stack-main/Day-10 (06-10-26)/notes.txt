@@ -1,0 +1,52 @@
+Animation
+---------
+
+
+Animation properties:
+------------------------
+1. animation-name
+2.animation-duration
+3.animation-timing-function
+4.animation-delay
+5.animation-iteration-count
+6.animation-direction
+
+Animation shorthand
+-------------------
+animation:myname 2s linear 3s infinite normal
+
+% in animation
+--------------
+@keyframe myName {
+    0% [font-size:20px;]
+    50%[font-size:30px;]
+    100% [font-size:]
+}
+
+Media queries
+------------
+help create a responsive website
+@media(width 600px){
+    div{
+        background-color:red;
+    }
+}
+@media(min-width :600px){
+    div{
+        background-color:red;
+    }
+}
+@media(min-width:200px)and (min-width:300px){
+    div{
+        background-color:red;
+    }
+}
+
+postions
+---------
+
+1.static -default postion(the top, right, bottom,left and z-index prop)
+2.relative-ele is relative to itself.(the top, right,bottom, left)
+3.absolute-postioned relative to its closest positioned ancestor.
+4.fixed-positioned relative to browser.
+5.sticky-positioned based on user's scroll postion.
